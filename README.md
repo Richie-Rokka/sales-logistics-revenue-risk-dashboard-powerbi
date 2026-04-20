@@ -113,19 +113,8 @@ A **star schema data model** was implemented to ensure scalability and performan
 
 ## 📸 Dashboard Preview
 
-<img width="470" height="266" alt="PBI Dashboard" src="https://github.com/user-attachments/assets/18a054f2-8f48-4bdd-800e-26cac262b0ca" />
-
-
----
-
-## 📚 Key Learnings
-- Importance of data modeling (star schema)
-- Handling time intelligence with limited data (MoM analysis)
-- Translating data into actionable business insights
-- Designing executive-level dashboards
+<img width="472" height="267" alt="sales-logistics-revenue-risk-dashboard" src="https://github.com/user-attachments/assets/33a27447-3fb4-4ad4-a824-ae872c00bbf4" />
 
 ---
 
-## 🔗 Author
-**Richard A Oketade**  
-Data Analyst | BI | Marketing & Operations Analytics
+
