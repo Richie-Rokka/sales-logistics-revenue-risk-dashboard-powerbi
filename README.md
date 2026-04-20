@@ -23,11 +23,11 @@ This results in:
 ## 🧱 Data Model
 A **star schema data model** was implemented to ensure scalability and performance.
 
-- **Fact Table:** `SalesFact`  
+- **Fact Table:** `Sales`  
 - **Dimension Tables:**  
-  - `ProductDim`  
-  - `CustomerDim`  
-  - `WarehouseDim`  
+  - `Product`  
+  - `Customer`  
+  - `Warehouse`  
   - `Calendar`  
 
 ### 🔧 Key Design Considerations
