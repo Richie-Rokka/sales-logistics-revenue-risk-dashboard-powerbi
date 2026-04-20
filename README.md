@@ -82,3 +82,29 @@ Quick snapshot of business performance:
 - Operational bottleneck identification
 
 ---
+
+## 🔍 Key Insights
+
+- Revenue increased by **32.6% month-over-month**, indicating strong growth momentum  
+- High stockout rates in key regions reveal **revenue leakage due to supply constraints**  
+- Revenue is heavily concentrated in a few categories, indicating **portfolio dependency risk**  
+- South and West regions show elevated late deliveries, suggesting **logistics inefficiencies**
+
+---
+
+## 💡 Recommendations
+
+- Improve inventory allocation in high-demand regions  
+- Optimize supply chain processes to reduce stockouts  
+- Address logistics bottlenecks in high-delay regions  
+- Diversify product portfolio to reduce dependency risk  
+
+---
+
+## 🛠️ Tools Used
+- Power BI  
+- DAX  
+- Power Query  
+- Excel  
+
+---
