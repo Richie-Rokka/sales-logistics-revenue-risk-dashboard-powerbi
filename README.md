@@ -36,3 +36,49 @@ This ensures:
 - Scalable analytics  
 
 ---
+
+## 📊 Key Metrics
+- Total Revenue  
+- Total Profit  
+- Gross Margin %  
+- Stockout Rate  
+- Lost Sales  
+- Month-over-Month (MoM) Growth %  
+- Late Delivery Rate  
+
+---
+
+## 📈 Dashboard Features
+
+### 🔹 Executive KPIs
+Quick snapshot of business performance:
+- Revenue, Profit, Margin
+- Growth trends (MoM ▲)
+- Operational risks (Stockouts, Late Deliveries)
+
+---
+
+### 🔹 Sales Trend Analysis
+- Monthly revenue trend
+- Previous month comparison
+- Growth momentum tracking
+
+---
+
+### 🔹 Regional Performance
+- Revenue contribution by region
+- Identification of top-performing markets
+
+---
+
+### 🔹 Product Performance
+- Revenue by product category
+- Identification of high-dependency categories
+
+---
+
+### 🔹 Logistics & Delivery Analysis
+- Late deliveries by region
+- Operational bottleneck identification
+
+---
